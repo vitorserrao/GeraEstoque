@@ -13,8 +13,10 @@ public static class Menu
     var option = short.Parse(Console.ReadLine());
     switch (option)
     {
-      case 1: break;
-      case 2: break;
+      case 1: CadastrarProduto.Start(); break;
+      case 2: Menu.Show(); break;
+      case 3: Menu.Show(); break;
+      case 4: Menu.Show(); break;
       case 0:
         {
           Console.Clear();
