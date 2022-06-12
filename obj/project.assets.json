@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Devinhouse\\Módulo2\\Gera Estoque\\Gera Estoque.csproj",
-      "projectName": "Gera Estoque",
-      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Devinhouse\\Módulo2\\Gera Estoque\\Gera Estoque.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Devinhouse\\Módulo2\\Gera Estoque\\GeraEstoque.csproj",
+      "projectName": "GeraEstoque",
+      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Devinhouse\\Módulo2\\Gera Estoque\\GeraEstoque.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Devinhouse\\Módulo2\\Gera Estoque\\obj\\",
       "projectStyle": "PackageReference",
